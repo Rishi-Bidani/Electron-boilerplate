@@ -1,0 +1,14 @@
+{
+  "name": "AniStream",
+  "version": "1.0.0",
+  "description": "Anime Watching",
+  "main": "main.js",
+  "author": "Rishi Arvind",
+  "scripts":{
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^12.0.0"
+  }
+}
